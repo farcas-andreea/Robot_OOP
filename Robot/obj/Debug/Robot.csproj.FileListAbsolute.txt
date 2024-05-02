@@ -1,0 +1,8 @@
+C:\Users\farca\source\repos\Robot\Robot\bin\Debug\Robot.exe.config
+C:\Users\farca\source\repos\Robot\Robot\bin\Debug\Robot.exe
+C:\Users\farca\source\repos\Robot\Robot\bin\Debug\Robot.pdb
+C:\Users\farca\source\repos\Robot\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\Users\farca\source\repos\Robot\Robot\obj\Debug\Robot.csproj.SuggestedBindingRedirects.cache
+C:\Users\farca\source\repos\Robot\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\farca\source\repos\Robot\Robot\obj\Debug\Robot.exe
+C:\Users\farca\source\repos\Robot\Robot\obj\Debug\Robot.pdb
